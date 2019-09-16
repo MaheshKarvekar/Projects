@@ -1,0 +1,40 @@
+body{
+    background-color: #FA8072;
+}
+
+input{
+    margin-top:100px;
+    margin-left:280px;
+    width: 350px;
+    height: 40px;
+    display: block;
+    padding-left: 395px;
+    font-size: 30px;
+}
+
+#output{
+    margin-top: 45px;
+    width: 100px;
+    background: lightgreen;
+    margin-left: 570px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#btn{
+    width: 350px;
+    height: 60px;
+    color: #fff;
+    background-color: blue;
+    border-block-end-style: none;
+    border-radius: 15px;
+    margin-top: 100px;
+    margin-left: 460px;
+}
+
+h1{
+    text-align: center;
+    color: #000;
+    margin-top: 50px;
+}

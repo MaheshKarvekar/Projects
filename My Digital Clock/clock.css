@@ -1,0 +1,27 @@
+body{
+    background-color: aqua;
+}
+#clock{
+    color: blue;
+    font-size: 100px;
+    padding: 0.5em 0em;
+    width: 100%;
+    margin: 0px auto;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#banner{
+    color: #fefefe;
+    font-size: 50px;
+    text-align: center;
+    background-color: #EB6C52;
+    padding: 0.5em 0em;
+    width: 50%;
+    margin: 10% auto 0%;
+    font-family: Arial, Helvetica, sans-serif
+    text-align: center;
+    text-transform: uppercase;
+}
+span{
+    margin-left: 150px;
+}
